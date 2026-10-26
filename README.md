@@ -1,3 +1,5 @@
+**English** | [Deutsch](README.de.md)
+
 # Matthew Bangle
 
 **BI & Finance Transformation**
@@ -18,8 +20,14 @@ I bring hands-on Python, SQL, Qlik, Excel and Power Query skills to that respons
 
 ## Inspect the technical work
 
-[Reporting investigation](https://github.com/mattbang/qlik-reporting-investigation) · [Profitability analysis](https://github.com/mattbang/cm1-insight-engine) · [Forecast integration](https://github.com/mattbang/enterprise-commercial-etl-pipeline)
+[Reporting investigation](https://github.com/mattbang/qlik-reporting-investigation) · [Profitability analysis](https://github.com/mattbang/cm1-insight-engine) · [Forecast integration](https://github.com/mattbang/enterprise-commercial-etl-pipeline) · [SAP reporting automation](https://github.com/mattbang/sap-report-bridge)
 
-Each case separates workplace experience from current demonstrations and explains its evidence and limits. Public examples use fictional data.
+## Explore the completed training simulation
+
+**[Training Operations Simulator](https://matthew-bangle-data-portfolio.mattbangle.chatgpt.site/work/logistics-training-simulation)** — a Python discrete-event engine, scenario comparisons and sensitivity analysis for logistics training. The model tests scheduling rules, self-study and practice capacity, and identified individual practice as the remaining constraint. [Inspect the simulation repository](https://github.com/mattbang/cosanum-training-simulation).
+
+The results are model comparisons under stated assumptions, not measured operating gains. Automated scheduling and digital certification are a separate extension in development.
+
+Each case separates workplace experience from current demonstrations and explains its evidence and limits. BI demonstrations use fictional data; the simulation combines approved aggregate source inputs with synthetic demand scenarios and documented assumptions.
 
 [Connect on LinkedIn](https://www.linkedin.com/in/matthew-bangle/)
